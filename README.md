@@ -1,1 +1,1 @@
-"# Web_Development_Portfolio" 
+This repository contains a personal CV website built using HTML and CSS. It includes sections for Home, About, Education, Skills, Experience, and Contact Me, providing a structured and interactive showcase of my professional profile.
